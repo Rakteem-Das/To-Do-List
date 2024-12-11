@@ -1,5 +1,8 @@
 {
-	"devDependencies": {
-		"vite": "^6.0.3"
-	}
+  "scripts": {
+    "dev": "pnpm exec vite"
+  },
+  "devDependencies": {
+    "vite": "^6.0.3"
+  }
 }
